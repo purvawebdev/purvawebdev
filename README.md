@@ -31,9 +31,13 @@
 
 <!-- Try different themes -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=purvawebdev&theme=default)
-
+[
 <!-- Or with different parameters -->
-![Stats](https://github-readme-stats.vercel.app/api?username=purvawebdev&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=purvawebdev&count_private=true)]
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=dark)
+
+
 
 ## 🏆 Featured Projects
 
