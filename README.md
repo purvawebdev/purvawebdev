@@ -29,22 +29,13 @@
 
 ## 📊 GitHub Stats
 
-<!-- Try different themes -->
-![Stats](https://github-readme-stats.vercel.app/api?username=purvawebdev&theme=default)
-[
-<!-- Or with different parameters -->
-![Stats](https://github-readme-stats.vercel.app/api?username=purvawebdev&count_private=true)]
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=dark)
-
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=purvawebdev&theme=dark)
 
 ## 🏆 Featured Projects
 
 ### 🔗 **Decentralized Digital Identity Application**
 > Blockchain-based identity management system using Ethereum, React.js, Node.js, and Solidity
 - **Tech Stack:** React.js, Node.js, Ethereum, Solidity, Truffle, Ganache, MetaMask
-- **Live Demo:** [Link if available]
 - **Code:** [github.com/purvawebdev/decentralized-app](https://github.com/purvawebdev/decentralized-app)
 
 ### 🤖 **AI-Powered Chatbot Agent**
