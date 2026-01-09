@@ -28,8 +28,7 @@
 ![Pinecone](https://img.shields.io/badge/Pinecone-430098?style=for-the-badge)
 
 ## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=purvawebdev&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=purvawebdev&exclude_days=Sun)
 
 ## 🏆 Featured Projects
 
